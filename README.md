@@ -68,15 +68,7 @@ The optimal model selection depends on the specific data characteristics and pro
 
 This repository includes the following files:
 
-* Jupyter notebooks or Python scripts for data preprocessing, model building, and evaluation.
-* Any additional data files or configuration settings required for running the project.
-
-## Getting Started
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/delivery-diwali-mortality-prediction.git
-   ```
+1. Jupyter notebooks or Python scripts for data preprocessing, model building, and evaluation.
 2. Install required libraries (refer to the specific requirements file if provided).
 3. Run the Jupyter notebooks or Python scripts to execute the data analysis and model training.
 
